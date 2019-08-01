@@ -4,7 +4,7 @@ A Shiny app for running the Trans Proteomic Pipeline to search DDA proteomic dat
 
 ## How to use
 
-1. Download the `app.R` and `TPP_functions.R` files
+1. Clone the repo
 2. Open `app.R` in Rstudio
 3. Install libraries: tidyverse, shiny, shinydashboard, DT, xml2
 4. Click "run App" in the upper-right of app.R window. This should open a web browser
